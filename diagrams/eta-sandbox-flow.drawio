@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.10">
   <diagram name="Page-1" id="bz21VVGLYWpo4IqahEjC">
-    <mxGraphModel dx="1339" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="905" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,7 +66,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-5W91e-iSZ1iDKhAKJ8N-2" value="Issues" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="119" y="530" width="590" height="160" as="geometry" />
+          <mxGeometry x="118" y="585" width="590" height="160" as="geometry" />
         </mxCell>
         <mxCell id="-5W91e-iSZ1iDKhAKJ8N-3" value="&lt;ul&gt;&lt;li&gt;chatbot- dev and prod resources to be merged in one. currently different function app, etc are being used&lt;/li&gt;&lt;li&gt;shared dashboard - will it be needed to be added in VM?&lt;/li&gt;&lt;li&gt;naming convention of many resources is not good.&lt;/li&gt;&lt;li&gt;storage accounts / app service plan associated with individual logicapps, function apps, etc are not mentioned. [i.e. which were created automatically while creating logicapps/function apps/etc&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="-5W91e-iSZ1iDKhAKJ8N-2" vertex="1">
           <mxGeometry y="30" width="590" height="130" as="geometry" />
@@ -206,7 +206,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dc2WwXNEdCK5Hb9lz6SL-16" value="&lt;font style=&quot;font-size: 8px; color: rgb(179, 179, 179);&quot;&gt;data sent to http triggered&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px; color: rgb(179, 179, 179);&quot;&gt;flow to be added in excel&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="293.99999999999994" y="362.56" width="120" height="40" as="geometry" />
+          <mxGeometry x="364.99999999999994" y="376.56" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dc2WwXNEdCK5Hb9lz6SL-17" value="&lt;font style=&quot;font-size: 8px; color: rgb(179, 179, 179);&quot;&gt;logicapp pushing data to cosmos db&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="538.52" y="466" width="150" height="30" as="geometry" />
