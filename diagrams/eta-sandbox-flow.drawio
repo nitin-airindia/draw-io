@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="Page-1" id="bz21VVGLYWpo4IqahEjC">
-    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1019" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,7 +20,7 @@
           <mxGeometry x="724.57" y="308" width="38.15" height="27.56" as="geometry" />
         </mxCell>
         <mxCell id="f_uvDmXail2cs2dS0SPD-11" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;ai-dt-eta-ammchatbot-aais-001&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="675.57" y="328.56" width="130" height="30" as="geometry" />
+          <mxGeometry x="676.09" y="329.56" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f_uvDmXail2cs2dS0SPD-13" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Azure_OpenAI.svg;" parent="1" vertex="1">
           <mxGeometry x="610.5300000000001" y="422.56" width="20" height="20" as="geometry" />
