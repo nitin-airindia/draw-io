@@ -52,8 +52,8 @@
         <mxCell id="tXv8NOe42rABdsTD4i_S-4" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Data pushed to container&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="457.00000000000006" y="170" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tXv8NOe42rABdsTD4i_S-5" value="&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;Function App&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="592" y="90" width="70" height="30" as="geometry" />
+        <mxCell id="tXv8NOe42rABdsTD4i_S-5" value="&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;Function App - Timer triggered&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="579" y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tXv8NOe42rABdsTD4i_S-6" value="&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;Storage Account&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="522.63" y="297" width="90" height="30" as="geometry" />
