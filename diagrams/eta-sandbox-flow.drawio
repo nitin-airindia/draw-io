@@ -8,19 +8,13 @@
           <mxGeometry x="364" y="215.5" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="f_uvDmXail2cs2dS0SPD-17" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/storage/Storage_Accounts.svg;" parent="1" vertex="1">
-          <mxGeometry x="361" y="314.56" width="31.25" height="25" as="geometry" />
+          <mxGeometry x="190.19" y="304.56" width="31.25" height="25" as="geometry" />
         </mxCell>
         <mxCell id="f_uvDmXail2cs2dS0SPD-19" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;aidtetasbxstrg001&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="330" y="329.56" width="90" height="30" as="geometry" />
+          <mxGeometry x="165" y="329.56" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f_uvDmXail2cs2dS0SPD-21" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="405" y="327.56" as="sourcePoint" />
-            <mxPoint x="445" y="327.56" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="f_uvDmXail2cs2dS0SPD-24" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;ai-eng-logicapp-02&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="332" y="224.5" width="90" height="30" as="geometry" />
+        <mxCell id="f_uvDmXail2cs2dS0SPD-24" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;ai-dt-eta-sbx-logicapp-001&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="317" y="224.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-5W91e-iSZ1iDKhAKJ8N-9" value="IFCP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#CCFFFF;" parent="1" vertex="1">
           <mxGeometry x="100" y="299.56" width="50" height="30" as="geometry" />
@@ -44,24 +38,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-5W91e-iSZ1iDKhAKJ8N-18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;" parent="1" vertex="1">
-          <mxGeometry x="179.25" y="308.09" width="51.5" height="37.94" as="geometry" />
-        </mxCell>
-        <mxCell id="-5W91e-iSZ1iDKhAKJ8N-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.252;exitY=-0.03;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="f_uvDmXail2cs2dS0SPD-19" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="360" as="sourcePoint" />
-            <mxPoint x="240" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-5W91e-iSZ1iDKhAKJ8N-20" value="&lt;font style=&quot;font-size: 8px; color: rgb(179, 179, 179);&quot;&gt;Pulling data from containers&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="246" y="304" width="120" height="30" as="geometry" />
+          <mxGeometry x="332.5" y="298.09000000000003" width="51.5" height="37.94" as="geometry" />
         </mxCell>
         <mxCell id="-5W91e-iSZ1iDKhAKJ8N-23" value="Contrails" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#CCFFFF;" parent="1" vertex="1">
           <mxGeometry x="91.00000000000006" y="100" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-5W91e-iSZ1iDKhAKJ8N-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.559;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="-5W91e-iSZ1iDKhAKJ8N-11" edge="1">
+        <mxCell id="-5W91e-iSZ1iDKhAKJ8N-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.591;entryY=0.111;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.537;exitY=1.011;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="300" as="sourcePoint" />
-            <mxPoint x="470" y="220" as="targetPoint" />
+            <mxPoint x="205.70000000000005" y="257.33000000000004" as="sourcePoint" />
+            <mxPoint x="205.65875000000005" y="303.3349999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-5W91e-iSZ1iDKhAKJ8N-25" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.globe;" parent="1" vertex="1">
@@ -70,26 +55,29 @@
         <mxCell id="-5W91e-iSZ1iDKhAKJ8N-26" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;https://api.contrails.org&lt;/font&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;[Rest API]&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="160" y="100" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-5W91e-iSZ1iDKhAKJ8N-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.513;exitY=1.054;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="-5W91e-iSZ1iDKhAKJ8N-26" edge="1">
+        <mxCell id="-5W91e-iSZ1iDKhAKJ8N-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.044;exitY=0.006;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="250" as="sourcePoint" />
-            <mxPoint x="206" y="200" as="targetPoint" />
+            <mxPoint x="339.96000000000004" y="224.67999999999995" as="sourcePoint" />
+            <mxPoint x="234" y="225" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-5W91e-iSZ1iDKhAKJ8N-37" value="&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;ai-dt-engineering_tech_applications-sbx-rg-001&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="30" y="10" width="760" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dc2WwXNEdCK5Hb9lz6SL-3" value="&lt;font color=&quot;#b3b3b3&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;getting data from skywise api&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="202" y="264" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="dc2WwXNEdCK5Hb9lz6SL-4" value="&lt;font style=&quot;font-size: 8px; color: rgb(179, 179, 179);&quot;&gt;[data lake]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="276" y="320.56" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="dc2WwXNEdCK5Hb9lz6SL-5" value="&lt;font color=&quot;#b3b3b3&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;images url&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="389" y="304" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="dc2WwXNEdCK5Hb9lz6SL-19" value="&lt;font color=&quot;#b3b3b3&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;data received through skywise rest api&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="210" y="440.56" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TWP2SnQGctvfS__y3vQw-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.541;exitY=1.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-5W91e-iSZ1iDKhAKJ8N-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="349.96000000000004" y="234.67999999999995" as="sourcePoint" />
+            <mxPoint x="209" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TWP2SnQGctvfS__y3vQw-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="320" as="sourcePoint" />
+            <mxPoint x="320" y="320" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
