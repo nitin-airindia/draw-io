@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="26.0.15">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.5">
   <diagram name="Page-1" id="bz21VVGLYWpo4IqahEjC">
-    <mxGraphModel dx="756" dy="392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="786" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,32 +67,44 @@
         <mxCell id="dc2WwXNEdCK5Hb9lz6SL-19" value="&lt;font color=&quot;#b3b3b3&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;data received through skywise rest api&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="210" y="440.56" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TWP2SnQGctvfS__y3vQw-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.541;exitY=1.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-5W91e-iSZ1iDKhAKJ8N-26">
+        <mxCell id="TWP2SnQGctvfS__y3vQw-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.541;exitY=1.1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="-5W91e-iSZ1iDKhAKJ8N-26" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="349.96000000000004" y="234.67999999999995" as="sourcePoint" />
             <mxPoint x="209" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TWP2SnQGctvfS__y3vQw-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="TWP2SnQGctvfS__y3vQw-2" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="320" as="sourcePoint" />
             <mxPoint x="320" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TWP2SnQGctvfS__y3vQw-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/power_platform/PowerApps.svg;" vertex="1" parent="1">
+        <mxCell id="TWP2SnQGctvfS__y3vQw-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/power_platform/PowerApps.svg;" parent="1" vertex="1">
           <mxGeometry x="339.9" y="87.42" width="36.69" height="35.16" as="geometry" />
         </mxCell>
-        <mxCell id="TWP2SnQGctvfS__y3vQw-4" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/power_platform/PowerAutomate.svg;" vertex="1" parent="1">
+        <mxCell id="TWP2SnQGctvfS__y3vQw-4" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/power_platform/PowerAutomate.svg;" parent="1" vertex="1">
           <mxGeometry x="391.06" y="90" width="37.89" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TWP2SnQGctvfS__y3vQw-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="TWP2SnQGctvfS__y3vQw-5" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="130" as="sourcePoint" />
             <mxPoint x="230" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TWP2SnQGctvfS__y3vQw-6" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;http api request&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TWP2SnQGctvfS__y3vQw-6" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;http api request&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="322" y="150" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9daPuDTn29I5cVXvBGzP-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-09-128.png" vertex="1" parent="1">
+          <mxGeometry x="505" y="213" width="39.5" height="39.5" as="geometry" />
+        </mxCell>
+        <mxCell id="9daPuDTn29I5cVXvBGzP-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.044;exitY=0.006;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="497.02000000000004" y="224.99999999999994" as="sourcePoint" />
+            <mxPoint x="391.06" y="225.32" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9daPuDTn29I5cVXvBGzP-3" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Logicapp is triggered when files&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp;are added to sharepoint folder&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="454.75" y="245.56" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
