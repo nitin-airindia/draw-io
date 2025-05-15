@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="f_uvDmXail2cs2dS0SPD-15" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/internet_of_things/Logic_Apps.svg;" parent="1" vertex="1">
-          <mxGeometry x="466.52" y="422.56" width="20" height="20" as="geometry" />
+          <mxGeometry x="364" y="215.5" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="f_uvDmXail2cs2dS0SPD-17" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/storage/Storage_Accounts.svg;" parent="1" vertex="1">
           <mxGeometry x="361" y="314.56" width="31.25" height="25" as="geometry" />
@@ -20,7 +20,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="f_uvDmXail2cs2dS0SPD-24" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;ai-eng-logicapp-02&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="434.52" y="431.56" width="90" height="30" as="geometry" />
+          <mxGeometry x="332" y="224.5" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-5W91e-iSZ1iDKhAKJ8N-9" value="IFCP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#CCFFFF;" parent="1" vertex="1">
           <mxGeometry x="100" y="299.56" width="50" height="30" as="geometry" />
@@ -28,17 +28,8 @@
         <mxCell id="-5W91e-iSZ1iDKhAKJ8N-10" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;" parent="1" vertex="1">
           <mxGeometry x="188.57" y="210" width="32.87" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="-5W91e-iSZ1iDKhAKJ8N-11" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;ai-eta-func-sbx-001&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="160.00000000000006" y="231" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-5W91e-iSZ1iDKhAKJ8N-12" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240" y="220" as="sourcePoint" />
-            <mxPoint x="380" y="310" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="380" y="220" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="-5W91e-iSZ1iDKhAKJ8N-11" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;func-ai-dt-sbx-eta-003&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="155.00000000000006" y="231" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-5W91e-iSZ1iDKhAKJ8N-13" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.globe;" parent="1" vertex="1">
           <mxGeometry x="60" y="210" width="30" height="30" as="geometry" />
@@ -88,9 +79,6 @@
         <mxCell id="-5W91e-iSZ1iDKhAKJ8N-37" value="&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;ai-dt-engineering_tech_applications-sbx-rg-001&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="30" y="10" width="760" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dc2WwXNEdCK5Hb9lz6SL-2" value="&lt;font style=&quot;font-size: 8px; color: rgb(179, 179, 179);&quot;&gt;Data pushed to container&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="265" y="214" width="110" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="dc2WwXNEdCK5Hb9lz6SL-3" value="&lt;font color=&quot;#b3b3b3&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;getting data from skywise api&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="202" y="264" width="130" height="30" as="geometry" />
         </mxCell>
@@ -99,15 +87,6 @@
         </mxCell>
         <mxCell id="dc2WwXNEdCK5Hb9lz6SL-5" value="&lt;font color=&quot;#b3b3b3&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;images url&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="389" y="304" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="dc2WwXNEdCK5Hb9lz6SL-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.019;entryY=0.57;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="f_uvDmXail2cs2dS0SPD-24" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="360" as="sourcePoint" />
-            <mxPoint x="276" y="379.56" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="200" y="449" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="dc2WwXNEdCK5Hb9lz6SL-19" value="&lt;font color=&quot;#b3b3b3&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;data received through skywise rest api&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="210" y="440.56" width="160" height="30" as="geometry" />
