@@ -17,7 +17,7 @@
           <mxGeometry x="317" y="224.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-5W91e-iSZ1iDKhAKJ8N-9" value="IFCP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#CCFFFF;" parent="1" vertex="1">
-          <mxGeometry x="100" y="299.56" width="50" height="30" as="geometry" />
+          <mxGeometry x="59" y="280.56" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-5W91e-iSZ1iDKhAKJ8N-10" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;" parent="1" vertex="1">
           <mxGeometry x="188.57" y="210" width="32.87" height="29" as="geometry" />
