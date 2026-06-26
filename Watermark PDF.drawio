@@ -40,11 +40,11 @@
         <mxCell id="bcISkCZtEpppwMbaMDuG-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="HTTP request for Skywise token" vertex="1">
           <mxGeometry height="30" width="100" x="329" y="434" as="geometry" />
         </mxCell>
-        <mxCell id="bcISkCZtEpppwMbaMDuG-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Flow triggered when mail arrives to &#39;skywise&#39; folder&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;of mailbox&lt;/span&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="130" x="119" y="270" as="geometry" />
+        <mxCell id="bcISkCZtEpppwMbaMDuG-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;blockquote data-start=&quot;80&quot; data-end=&quot;169&quot;&gt;&lt;p data-start=&quot;82&quot; data-end=&quot;169&quot; class=&quot;PDq2pG_selectionAnchorContainer&quot;&gt;&lt;b&gt;The flow is triggered when an email arrives in the &lt;span data-start=&quot;133&quot; data-end=&quot;146&quot;&gt;&#39;Skywise&#39;&lt;/span&gt; folder of the mailbox.&lt;/b&gt;&lt;/p&gt;&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="30" width="261" x="43.5" y="260" as="geometry" />
         </mxCell>
         <mxCell id="bcISkCZtEpppwMbaMDuG-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Attached PDF sent to API" vertex="1">
-          <mxGeometry height="30" width="80" x="239" y="180" as="geometry" />
+          <mxGeometry height="30" width="80" x="241" y="182" as="geometry" />
         </mxCell>
         <mxCell id="bcISkCZtEpppwMbaMDuG-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;API adds&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;watermark to PDF&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="130" x="390" y="120" as="geometry" />
@@ -74,7 +74,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bcISkCZtEpppwMbaMDuG-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;strokeColor=light-dark(#0864f7, #ededed);" value="" vertex="1">
-          <mxGeometry height="360" width="661" x="83" y="110" as="geometry" />
+          <mxGeometry height="360" width="661" x="83" y="104" as="geometry" />
         </mxCell>
         <mxCell id="bcISkCZtEpppwMbaMDuG-28" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/power_platform/PowerAutomate.svg;" value="" vertex="1">
           <mxGeometry height="53.839999999999996" width="68" x="60" y="436.15999999999997" as="geometry" />
