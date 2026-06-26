@@ -5,7 +5,52 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="J6G0sSMRVdUjgGF592LP-1" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Logos_Microsoft_Office_365-2232/Microsoft_Office-07-1169.svg" value="" vertex="1">
-          <mxGeometry height="128" width="128" x="110" y="80" as="geometry" />
+          <mxGeometry height="70" width="70" x="110" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bcISkCZtEpppwMbaMDuG-2" parent="1" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" value="" vertex="1">
+          <mxGeometry height="70" width="72.92" x="327.08" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="bcISkCZtEpppwMbaMDuG-3" parent="1" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" value="" vertex="1">
+          <mxGeometry height="70" width="72.92" x="327.08" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bcISkCZtEpppwMbaMDuG-4" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Logos_Microsoft_Office_365-2232/Microsoft_Office-07-1169.svg" value="" vertex="1">
+          <mxGeometry height="70" width="70" x="610" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bcISkCZtEpppwMbaMDuG-5" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="410" y="115" as="sourcePoint" />
+            <mxPoint x="600" y="115" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bcISkCZtEpppwMbaMDuG-6" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="363.04" y="250" as="sourcePoint" />
+            <mxPoint x="363.04" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bcISkCZtEpppwMbaMDuG-8" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="197.08" y="114.5" as="sourcePoint" />
+            <mxPoint x="327.08" y="114.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bcISkCZtEpppwMbaMDuG-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="HTTP request for Skywise token" vertex="1">
+          <mxGeometry height="30" width="60" x="380" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="bcISkCZtEpppwMbaMDuG-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Flow triggered when mail arrives to &#39;skywise&#39; folder&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;of mailbox&lt;/span&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="90" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="bcISkCZtEpppwMbaMDuG-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Attached PDF sent to API" vertex="1">
+          <mxGeometry height="30" width="80" x="210" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bcISkCZtEpppwMbaMDuG-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;API adds&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;watermark to PDF&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="333.54" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bcISkCZtEpppwMbaMDuG-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Watermarked PDF send to users *" vertex="1">
+          <mxGeometry height="30" width="120" x="460" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bcISkCZtEpppwMbaMDuG-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;* The list of user email IDs is extracted from the triggered email body, and the remaining email content is forwarded.&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="700" x="80" y="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
