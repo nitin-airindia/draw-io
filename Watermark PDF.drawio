@@ -68,7 +68,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bcISkCZtEpppwMbaMDuG-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;strokeColor=light-dark(#0864f7, #ededed);" value="" vertex="1">
-          <mxGeometry height="360" width="661" x="90" y="110" as="geometry" />
+          <mxGeometry height="360" width="661" x="80" y="104" as="geometry" />
         </mxCell>
         <mxCell id="bcISkCZtEpppwMbaMDuG-28" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/power_platform/PowerAutomate.svg;" value="" vertex="1">
           <mxGeometry height="53.839999999999996" width="68" x="60" y="436.15999999999997" as="geometry" />
