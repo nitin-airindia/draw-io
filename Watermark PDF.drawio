@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="9zctF86hAph7hTQl2CiX">
-    <mxGraphModel dx="2236" dy="1267" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="838" dy="475" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -84,6 +84,12 @@
         </mxCell>
         <mxCell id="bcISkCZtEpppwMbaMDuG-32" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SAP_HANA_on_Azure.svg;" value="" vertex="1">
           <mxGeometry height="37.5" width="75" x="297" y="692.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bcISkCZtEpppwMbaMDuG-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;h2&gt;&lt;span data-teams=&quot;true&quot;&gt;&lt;strong&gt;AMOS Data Integrity bulletin [Watermark PDF]&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;" vertex="1">
+          <mxGeometry height="30" width="581" x="127" y="92" as="geometry" />
+        </mxCell>
+        <mxCell id="bcISkCZtEpppwMbaMDuG-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;u style=&quot;&quot;&gt;Solution architecture diagram&lt;/u&gt;&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="286" x="265" y="122" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
